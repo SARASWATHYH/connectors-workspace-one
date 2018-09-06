@@ -3,7 +3,7 @@ server:
      enabled: true
      mime-types: application/json,application/xml,text/html,text/xml,text/plain
   server-header: concur-connector
-  port: 9500
+  port: 8082
 
 connector:
   hasTestAuth: true
